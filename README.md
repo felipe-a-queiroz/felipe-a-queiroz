@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Felipe, a Software Developer in Recife, Brazil
+I´m Felipe, a Software Developer. I live in Recife, Brazil
 
 ## 🙂 About Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alcantara-queiroz/)
