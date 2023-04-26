@@ -5,8 +5,7 @@ My name is Felipe.
 I am a Software Developer and I live in Recife, Brazil.
 
 ## 🙂 About Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alcantara-queiroz/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipe.de.a.queiroz@gmail.com)](mailto:felipe.de.a.queiroz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alcantara-queiroz/)
 
 ## 🖥️ Preferences
 [![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows)
