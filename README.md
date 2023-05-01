@@ -21,3 +21,6 @@ Thanks for visiting my profile and I hope you find something useful here!
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-a-queiroz&layout=compact"/>
