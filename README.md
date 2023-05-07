@@ -14,13 +14,16 @@ I also love contributing to open-source projects and helping the developer commu
 Thanks for visiting my profile and I hope you find something useful here!
 
 ## Technologies
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+Here are some of the technologies I currently work with:
+- Programming Languages: Python, Shell, Java
+- Databases: Oracle, MySQL
+- Frameworks: Spring Boot, Hibernate
+- Version Control: Git
+- Containerization: Docker
+- Development Tools: Visual Studio Code, Postman, SoapUI, Eclipse, IntelliJ IDEA
+
+I'm always looking to learn new technologies and expand my skill set. 
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-a-queiroz&layout=compact"/>
