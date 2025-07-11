@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 ## About Me
-My name is Felipe, I am a technology enthusiast and a passionate developer who is always looking for new challenges. I have expertise in various programming languages and technologies such as Java, Oracle, Spring and Python. Currently, I am diving deep into Python.
+My name is Felipe, I am a technology enthusiast and a passionate developer who is always looking for new challenges. I have expertise in various programming languages and technologies such as Java, Oracle, Spring and Python. Currently, I am diving deep into React.
 
 ## My projects
 Here on my profile, you will find some of the projects that I have recently developed. Some of them are personal projects that I have built to learn new technologies, while others are projects that I have developed for clients or companies I worked for. Feel free to take a look at my projects and contribute if you want.
@@ -16,9 +16,9 @@ Thanks for visiting my profile and I hope you find something useful here!
 ## Technologies
 
 Here are some of the technologies I currently work with:
-- Programming Languages: Python, Shell, Java
-- Databases: Oracle, MySQL
-- Frameworks: Spring Boot, Hibernate
+- Programming Languages: Python, Shell, Java, Node.js
+- Databases: Oracle, MySQL, MongoDB
+- Frameworks: Spring Boot, Hibernate, React
 - Version Control: Git
 - Containerization: Docker
 - Development Tools: Visual Studio Code, Postman, SoapUI, Eclipse, IntelliJ IDEA
